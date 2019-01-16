@@ -1,0 +1,2 @@
+# strongties
+for college assignments
